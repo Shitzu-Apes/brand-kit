@@ -15,7 +15,7 @@ This repository contains the brand assets for Shitzu. The assets are free to use
 | Preview                                              | File                               | Usage                 |
 | ---------------------------------------------------- | ---------------------------------- | --------------------- |
 | <img src="./logo/shitzu.webp" width="50" />          | [webp](./logo/shitzu.webp)         | Shitzu Logo           |
-| <img src="./logo/funmeme.png" width="50" />          | [png](./logo/funmeme.png)          | Funmeme Logo          |
+| <img src="./logo/meme-cooking.webp" width="50" />     | [png](./logo/meme-cooking.webp)     | Meme.Cooking Logo          |
 | <img src="./logo/shitzu_face.svg" width="50" />      | [svg](./logo/shitzu_face.svg)      | Shitzu Face Logo      |
 | <img src="./logo/shitzu-wireframe.svg" width="50" /> | [svg](./logo/shitzu-wireframe.svg) | Shitzu Wireframe Logo |
 
